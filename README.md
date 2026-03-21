@@ -1,6 +1,6 @@
 ## Update
 
-This product has been superseded by Energy2D 2.0, a modern cloud-native version that has been greatly extended in its multiphysics capabilities. See https://intofuture.org/energy2d.html for more info.
+This product has been superseded by Energy2D 2.0, a modern cloud-native version that has been greatly extended in its multiphysics capabilities. See https://intofuture.org/energy2d.html for more info. As such, the Java code is no longer maintained.
 
 ## Under the hood...
 
