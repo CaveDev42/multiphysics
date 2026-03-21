@@ -1,3 +1,7 @@
+## Update
+
+This product has been superseded by Energy2D 2.0, a modern cloud-native version that has been greatly extended in its multiphysics capabilities. See https://intofuture.org/energy2d.html for more info.
+
 ## Under the hood...
 
 - [Numerical Algorithms for Simulating Three Modes of Heat Transfer](https://intofuture.org/energy2d-equations.html)
